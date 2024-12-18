@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frankjuchim
-- 👀 I’m interested in programming (Swift, SwiftUI, Java, Python), app development and teaching
-- 🌱 I’m currently learning SwiftUI and Javascript
-- 💞️ I’m looking to collaborate on app development, website building
+- 👀 Interested in programming (Swift, SwiftUI, Java, Python), app development and teaching
+- 💞️ Looking to collaborate on app development, python projects
+- 🎓 Teaching computer science (school & university)
 - 📫 How to reach me: info@frankjuchim.de
 
 <!---
